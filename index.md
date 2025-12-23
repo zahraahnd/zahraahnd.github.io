@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/https://zahraahnd.github.io/telco-customer-churn-analysis/)
+[Project 1 Title](https://zahraahnd.github.io/telco-customer-churn-analysis)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
