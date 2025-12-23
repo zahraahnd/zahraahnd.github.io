@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/telco-customer-churn-analysis)
+[Project 1 Title](/telco-customer-churn-analysis.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
