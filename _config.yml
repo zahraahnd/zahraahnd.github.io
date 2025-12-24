@@ -1,9 +1,11 @@
 title: Zahra Salsabila Hernanda # your name (or website title) here
-logo: "/images/foto_Zahra%20Salsabila%20Hernanda.png?raw=true" # your photo (or logo) here
+#logo: "/images/foto_Zahra%20Salsabila%20Hernanda.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  A Learner. Well, thats too short, just hope its work
+  Nearly 3 years of experience in Data Analytics, specializing in RF telecom, passionate about turning complex data into actionable insights. 
+  Experienced with Python, SQL, Tableau, and Power BI, with hands-on practice in data processing, analysis, and visualization. 
+  Continuously expanding my expertise, I am naturally curious and efficiency-driven, exploring how data can push boundaries and create meaningful impact for people and businesses.
   <br><br>
-  <a href="www.linkedin.com/in/zahra-salsabila-hernanda">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/zahra-salsabila-hernanda/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 # google_analytics: UA-000000-0 # your Google Analytics tracking ID here
