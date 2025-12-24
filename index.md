@@ -1,35 +1,18 @@
-## Portfolio
+# Data Portfolio
 
 ---
 
-### Category Name 1 
+### [Telco Customer Churn Analysis](https://zahraahnd.github.io/telco-customer-churn-analysis)
+<img src="https://github.com/user-attachments/assets/5d76758c-95c3-4310-9dbc-0edc742f34dc"/>
 
-[Project 1 Title](https://zahraahnd.github.io/telco-customer-churn-analysis)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Telco Company X, faced a customer churned in California branch on last quarter. The survey was conducted for churned user why they not continued the serviced provide by company. The stakeholder wants to know how the scope of user churned and what the main reason which will point out to strategic action plan to tackle this problem.
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
+- Dataset : Telco Customer Churn IBM Dataset from [Kaggle ](https://www.kaggle.com/datasets/yeanzc/telco-customer-churn-ibm-dataset/data)
+- Tools : Python for Data Cleaning, PowerBI for Analysis
 ---
 
 
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
