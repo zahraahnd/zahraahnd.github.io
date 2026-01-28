@@ -10,6 +10,7 @@ Telco Company X experienced elevated customer churn in its California branch ove
 The outcome is an analytical report that supports stakeholder decision-making by highlighting churn risk patterns and prioritizing opportunities for retention strategies.
 
 Dataset: Telco Customer Churn IBM Dataset from [Kaggle ](https://www.kaggle.com/datasets/yeanzc/telco-customer-churn-ibm-dataset/data)
+
 Tools: Python for Data Cleaning, Power BI for Analysis & Visualization
 
 ---
@@ -22,8 +23,11 @@ This dashboard analyzes weekly revenue performance for a Telco company through u
 It highlights not only what changed, but why it changed, and surfaces near-term revenue exposure driven by user inactivity, to support data-driven growth and retention decisions.
 
 Dataset: Telco Customer and Revenue Dataset from [Kaggle](https://www.kaggle.com/datasets/krishnacheedella/telecom-iot-crm-dataset)
+
 Tools:
+
 - SQL for data cleaning, user movement classification, and weekly aggregation
+  
 - Tableau for visualization and dashboard design
 
 ---
